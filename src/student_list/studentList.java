@@ -17,6 +17,7 @@ public class studentList {
         studentList[0] = new Student("1", "Osadolor Ebhuoma");
         studentList[1] = new Student("2", "John Doe");
         studentList[2] = new Student("3", "abc");
+        studentList[3] = new Student("4", "123");
         
         for (int i = 0; i<studentList.length; i++)
         {

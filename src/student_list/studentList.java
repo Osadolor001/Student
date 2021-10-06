@@ -13,7 +13,6 @@ public class studentList {
     public static void main (String[] args){
         /* I added comment on 7:21 */
         Student[] studentList = new Student[4];
-        /* I added comment on 7:21 */
         studentList[0] = new Student("1", "Osadolor Ebhuoma");
         studentList[1] = new Student("2", "John Doe");
         studentList[2] = new Student("3", "abc");

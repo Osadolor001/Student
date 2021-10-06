@@ -7,7 +7,7 @@ package student_list;
 
 /**
  *
- * @author Osadolor Ebhuoma
+ * @author Osadolor Obiahon Ebhuoma
  */
 public class studentList {
     public static void main (String[] args){

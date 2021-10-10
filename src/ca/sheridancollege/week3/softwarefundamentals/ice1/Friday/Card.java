@@ -43,6 +43,7 @@ public class Card {
         this.value = value;
     }
    
+   CardTrick Origin = new CardTrick();
    
     
 }
